@@ -2,7 +2,6 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-
         car car=new car();
         System.out.println("1-Car");
         car.company="Mercedes Benz";
